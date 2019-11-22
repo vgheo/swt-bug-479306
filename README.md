@@ -1,5 +1,5 @@
 # swt-bug-479306
-test for swt bug 479306
+test for [swt bug 479306](https://bugs.eclipse.org/bugs/show_bug.cgi?id=479306)
 
 
 ## Test 1
